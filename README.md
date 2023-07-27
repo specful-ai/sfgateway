@@ -63,3 +63,9 @@ To use sfgateway when using the official Python library:
 ```py
 openai.api_base = "http://localhost:8090"
 ```
+
+## Screenshots
+
+![1](https://github.com/specful-ai/sfgateway/assets/196279/5a4c6bba-e938-4621-bf77-1866da808648)
+
+![2](https://github.com/specful-ai/sfgateway/assets/196279/bf40fb65-d9d2-4aad-bcd2-57da80cb8115)
